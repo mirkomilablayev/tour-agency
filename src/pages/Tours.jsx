@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 import { Plane, Clock, ChevronLeft, ChevronRight } from 'lucide-react';
 import { toursData } from '../data/toursData';
 import './Tours.css';
